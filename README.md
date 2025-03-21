@@ -1,1 +1,3 @@
-<h1 align="center" color="red">Hydra Landing Page</h1>
+<h1 align="center">Hydra Landing Page</h1>
+
+## Author Abdisalomov
