@@ -11,4 +11,4 @@
 
 <hr>
 
-<img src="./img/readme/readmeW.png">
+<img src="https://raw.githubusercontent.com/jasurhaydarovcode/HydraLandingPage/main/img/readme/readmeW.png">
