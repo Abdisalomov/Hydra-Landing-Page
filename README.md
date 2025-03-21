@@ -1,3 +1,1 @@
-<div align="center">
-  # Hydra Landing Page
-</div>
+ # Hydra Landing Page
