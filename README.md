@@ -2,7 +2,7 @@
 
 <hr>
 
-## Author Abdisalomov
+## Written by Abdisalomov <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
 <hr>
 
